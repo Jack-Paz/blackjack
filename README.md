@@ -2,11 +2,17 @@
 
 A fun blackjack game in Python
 
-'''
+
 This game was made by Jack Parry.
+
 The motivation was to practice object-orientated programming in Python.
+
 Please review the code and tell me where I could make any improvements!
-'''
+
+
+In order to play the game, download the file, make it executable and run it in the terminal.
+Requires NumPy.
+
 
 RULES OF BLACKJACK:
  
