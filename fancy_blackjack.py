@@ -72,7 +72,7 @@ class Dealer():
 		self.hand = hand
 		
 	def deal_card(self):
-		card = random.randint(0, len(self.sleeve))
+		card = random.randint(0, len(self.sleeve)-1)
 		return self.sleeve.pop(card)
 
 	def refresh_sleeve(self):
